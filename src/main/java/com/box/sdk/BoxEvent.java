@@ -611,7 +611,7 @@ public class BoxEvent extends BoxResource {
          */
         CONTENT_WORKFLOW_UPLOAD_POLICY_VIOLATION,
         /**
-         * Event for file tag updates
+         * Event for file tag updates.
          */
         CONTENT_ACCESS;
     }
